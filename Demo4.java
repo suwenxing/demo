@@ -9,6 +9,6 @@
  */
 public class Demo4 {
 	public static void main(String[] args) {
-		System.out.println("w1");
+		System.out.println("w1111");
 	}
 }
